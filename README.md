@@ -26,4 +26,4 @@ a. Contar cuántas ocurrencias hay por cada parte de la oración
 
 
 
-🦉###  ¡Gracias por leerme! 🦉
+🦉 ¡Gracias por leerme! 🦉
