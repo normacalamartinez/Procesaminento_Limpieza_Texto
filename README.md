@@ -1,4 +1,4 @@
-# Proceso de limpieza de texto, Bolsa de Palabras
+# Proceso de limpieza de texto
 
 Ahora tendremos en este repositorio la manera de procesar texto mediante un plano formato csv el cual obtendremos una serie de procesos que nos ayudaran a ver mejor los datos, limpiando caracteres especiales, palabras vacías y demás todo desde Python. 🐍
 
