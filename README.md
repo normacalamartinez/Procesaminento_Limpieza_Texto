@@ -4,6 +4,8 @@ Ahora tendremos en este repositorio la manera de procesar texto mediante un plan
 
 Ahora si entremos en materia para conocer un poco más.
 
+
+
 🍉 Punto 1:
 a. Leer el archivo UNA_SOLITARIA_VOZ_HUMANA.txt con with open
 b. Convertir a minúsculas
@@ -20,6 +22,7 @@ b. ¿Cuáles son las 10 raíces más usadas?
 
 🍉 Punto 4:
 a. Contar cuántas ocurrencias hay por cada parte de la oración
+
 
 
 
