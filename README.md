@@ -4,23 +4,20 @@ Veremos es este repo 🍚 la forma de leer un plano .txt y las diferentes formas
 
 Para conocer un poco más.
 
-🍉 Punto 1:
-a. Leer el archivo UNA_SOLITARIA_VOZ_HUMANA.txt con with open
-b. Convertir a minúsculas
-c Conservar sólo palabras
-d. Tokenizar
+🧠 Punto 1: Pre-Procesamiento
+a. Leer el archivo `dialogos.csv` usando `pandas`
+b. Crear una nueva columna con el texto en minúscula, sin caracteres especiales ni números y sin palabras vacias
 
-🍉 Punto 2:
-a. Quitar palabras vacias
-b. ¿Cuáles son las 10 palabras no vacias más usadas?
+🧠 Punto 2: Representación vectorial
+a. Crear una bolsa de palabras (BoW) del corpus usando la columna pre-procesada
+b. ¿Cuántas palabras hay en el vocabulario? (Usando la función de `sklearn`)
 
-🍉 Punto 3:
-a. Stemming del documento
-b. ¿Cuáles son las 10 raíces más usadas?
+🧠 Punto 3:
+a. ¿En qué casos es buena idea tomar en la cuenta la frecuencia de las palabras para la bolsa de palabras?
+b. ¿Cuándo es una mejor idea usar una bolsa de n-gramas en vez de una bolsa de palabras?
 
-🍉 Punto 4:
-a. Contar cuántas ocurrencias hay por cada parte de la oración
-
+🧠 Punto 4:
+a. ¿A qué pertenecen los dialogos del primer punto? 
 
 
 🦉 ¡Gracias por leerme! 🦉
