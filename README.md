@@ -4,7 +4,7 @@ Ahora tendremos en este repositorio la manera de procesar texto mediante un plan
 
 Ahora si entremos en materia para conocer un poco más.
 
-
+<br>
 
 🍉 Punto 1:
 a. Leer el archivo UNA_SOLITARIA_VOZ_HUMANA.txt con with open
