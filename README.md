@@ -6,21 +6,21 @@ Ahora si entremos en materia para conocer un poco más.
 
 <br>
 
-🍉 ### Punto 1:
+### Punto 1 🍉
 a. Leer el archivo UNA_SOLITARIA_VOZ_HUMANA.txt con with open
 b. Convertir a minúsculas
 c Conservar sólo palabras
 d. Tokenizar
 
-🍉 ### Punto 2:
+### Punto 2 🍉
 a. Quitar palabras vacias
 b. ¿Cuáles son las 10 palabras no vacias más usadas?
 
-🍉 ### Punto 3:
+### Punto 3 🍉
 a. Stemming del documento
 b. ¿Cuáles son las 10 raíces más usadas?
 
-🍉 ### Punto 4:
+### Punto 4 🍉
 a. Contar cuántas ocurrencias hay por cada parte de la oración
 
 
