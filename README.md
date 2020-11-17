@@ -22,6 +22,12 @@ b. ¿Cuáles son las 10 raíces más usadas?
 
 ### Punto 4 🍉
 a. Contar cuántas ocurrencias hay por cada parte de la oración
+    
+.
+.
+.
+.
+.
 
 
 
